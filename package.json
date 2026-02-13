@@ -1,0 +1,23 @@
+{
+  "name": "project-manager",
+  "version": "1.0.0",
+  "description": "Personal Project Manager Tool ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbvignesh/project-manager.git"
+  },
+  "keywords": [
+    "project",
+    "manager"
+  ],
+  "author": "Vignesh Pb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pbvignesh/project-manager/issues"
+  },
+  "homepage": "https://github.com/pbvignesh/project-manager#readme"
+}
